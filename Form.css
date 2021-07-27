@@ -1,0 +1,48 @@
+table {
+	border:2px dotted lightblue;
+	width:50%;
+	/*margin:20px;*/
+}
+
+h2 {
+	color:brown;
+	text-align: center;
+}
+
+body{
+	 background-color: linen;
+}
+
+td{
+	padding:10px;
+}
+
+/* For classes and IDs */
+td.one{
+	font-size:130%;
+}
+
+#first{
+	margin:20px 50px 80px 300px;
+	background-color: grey;
+}
+
+.two{
+	font-family:monospace;
+	color:green;
+}
+
+.three{
+	color:green;
+	font-family:fantasy;
+}
+
+#submit {
+	background-color: brown;
+	color:lightblue;
+}
+
+.wrapper {
+	width:400px;
+
+}

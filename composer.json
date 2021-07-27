@@ -1,0 +1,19 @@
+{
+    "name": "mayank/vaccine-portal",
+    "description": "\"Vaccine Requirements\"",
+    "require": {
+        "php": ">=7.4",
+	    "ext-mbstring": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mayank\\VaccinePortal\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ms1835"
+            
+        }
+    ]
+}
